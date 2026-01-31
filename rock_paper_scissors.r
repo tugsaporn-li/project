@@ -6,6 +6,7 @@ game <- function() {
   while(TRUE) {
     # Get user input
     user_hand <- readline("Choose your hand: ")
+    user_hand <- tolower(user_hand)
     
     # Check for quit condition
     if (user_hand == "quit") {
