@@ -6,6 +6,8 @@ This folder includes 4 files
 3. gender_submission.csv (an example of what a submission file should look like
 4. titanic_prediction_result.csv (my submission that score 0.77751 on Kaggle)
 
-for more information 
+for more information
+
 Dataset - https://www.kaggle.com/competitions/titanic/overview
+
 How I solved - https://tuggynana.wordpress.com/2026/02/13/titanic-machine-learning-from-disaster/
