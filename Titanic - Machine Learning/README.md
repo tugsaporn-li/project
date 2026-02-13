@@ -5,7 +5,7 @@ This folder includes 5 files
 2. test.csv (for apply model)
 3. gender_submission.csv (an example of what a submission file should look like)
 4. titanic_prediction_result.csv (my submission that score 0.77751 on Kaggle)
-5. Titanic_Machine_Learning.ipynb (This Notebook contains a complete End-to-End process)
+5. Titanic_Machine_Learning.ipynb (this Notebook contains a complete End-to-End process)
 
 for more information
 
